@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "Origa_user",
+    "password": "hell@w@rld",
+    "DBurl": "mongodb://localhost:27017/",
+    "database": "OrigaDB",
+    "jwt_token": "!@#$%^&*()1234567890a-zAZ",
+    "bcrypt_token": "1234567890a-zAZ!@#$%^&*()_+~",
+    "http_port": 9000,
+    "https_port": 8000,
+    "ip":"http://ec2-3-215-149-34.compute-1.amazonaws.com"
+  },
+  "test": {
+    "username": "Origa_user",
+    "password": "hell@w@rld",
+    "DBurl": "mongodb+srv://chowdary:r7p2ZfVMNc2DOkfg@cluster0-h8j8p.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "OrigaDB_Test",
+    "jwt_token": "!@#$%^&*()1234567890a-zAZ",
+    "bcrypt_token":"1234567890a-zAZ!@#$%^&*()_+~",
+    "http_port": 9093,
+    "https_port": 8083,
+    "ip":"http://ec2-3-215-149-34.compute-1.amazonaws.com"
+  },
+  "prod": {
+    "username": "Origa_user",
+    "password": "hell@w@rld",
+    "DBurl": "mongodb://admin:CHOWDARY19@3.215.149.34:27017/ExasolDB_Production?authSource=admin&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
+    "database": "OrigaDB_Production",
+    "jwt_token": "!@#$%^&*()1234567890a-zAZ",
+    "bcrypt_token":"1234567890a-zAZ!@#$%^&*()_+~",
+    "http_port": 9093,
+    "https_port": 8083, 
+    "ip":"http://ec2-3-215-149-34.compute-1.amazonaws.com"
+  }
+}
