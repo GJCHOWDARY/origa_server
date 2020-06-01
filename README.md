@@ -1,5 +1,5 @@
-# OrangeHRM
-OrangeHRM
+# Origa
+Origa
 
 *project structure*
 
@@ -17,10 +17,7 @@ OrangeHRM
 |       │       └── environment.js  
 |       |
 |       └── controllers
-|       │       ├── roles.js
-|       │       ├── leaves.js
-|       │       ├── rolemapping.js
-|       │       ├──
+|       │       ├── orders.js
 |       │       └── users.js          
 |       |
 |       ├── middleware
@@ -28,17 +25,11 @@ OrangeHRM
 |       │     └── check-auth.js
 |       |
 |       ├── models
-|       │     ├── roles.js
-|       │     ├── leaves.js
-|       │     ├── rolemapping.js
-|       │     ├──
+|       │     ├── orders.js
 |       │     └── user.js
 |       |
 |       ├── routes
-|       │     ├── roles.js
-|       │     ├── leaves.js
-|       │     ├── rolemapping.js
-|       │     ├──
+|       │     ├── orders.js 
 |       │     └── user.js
 |       |
 |       └── server.js
