@@ -42,7 +42,7 @@
     "shelljs": "^0.8.4",
     "socket.io": "^2.1.1",
     "supertest": "^4.0.2",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "validator": "^10.11.0",
     "webhdfs": "^1.2.0",
     "winston": "^3.2.1"
