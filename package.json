@@ -43,7 +43,7 @@
     "socket.io": "^2.1.1",
     "supertest": "^4.0.2",
     "underscore": "^1.10.2",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "webhdfs": "^1.2.0",
     "winston": "^3.2.1"
   },
