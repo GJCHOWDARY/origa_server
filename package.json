@@ -25,7 +25,7 @@
     "csvtojson": "^2.0.10",
     "curl": "^0.1.4",
     "dateformat": "^3.0.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-validator": "^5.3.0",
     "helmet": "^3.21.2",
     "jsonwebtoken": "^8.3.0",
